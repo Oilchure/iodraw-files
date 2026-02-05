@@ -5,13 +5,21 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yxYTFZDSgiTYxT_d3iKq-8" target="yxYTFZDSgiTYxT_d3iKq-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1000" y="230" />
+              <mxPoint x="-940" y="230" />
+              <mxPoint x="-940" y="220" />
+              <mxPoint x="-970" y="220" />
+              <mxPoint x="-970" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-8" value="WIBR3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1040" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-30" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1060" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-890" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
