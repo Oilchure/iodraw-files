@@ -104,7 +104,7 @@
             <mxPoint x="-700" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-65" value="Completed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yxYTFZDSgiTYxT_d3iKq-65" value="&lt;h1&gt;Completed&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-890" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
