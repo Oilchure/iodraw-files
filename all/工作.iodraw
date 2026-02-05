@@ -123,9 +123,6 @@
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-71" value="&lt;h1&gt;Future Work&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-600" y="126" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-73" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-790" y="116" width="50" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
