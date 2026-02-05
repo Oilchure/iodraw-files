@@ -31,8 +31,7 @@
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yxYTFZDSgiTYxT_d3iKq-9" target="yxYTFZDSgiTYxT_d3iKq-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1000" y="620" />
-              <mxPoint x="-860" y="620" />
+              <mxPoint x="-1000" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,10 +63,10 @@
           <mxGeometry x="-530" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-920" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-920" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
