@@ -4,30 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yxYTFZDSgiTYxT_d3iKq-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-920" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1010" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1070" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yxYTFZDSgiTYxT_d3iKq-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-800" y="190" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yxYTFZDSgiTYxT_d3iKq-12" target="yxYTFZDSgiTYxT_d3iKq-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-720" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yxYTFZDSgiTYxT_d3iKq-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-530" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="yxYTFZDSgiTYxT_d3iKq-8" value="WIBR3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1070" y="270" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
