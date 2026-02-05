@@ -120,6 +120,9 @@
         <mxCell id="yxYTFZDSgiTYxT_d3iKq-69" value="FDA Drug&lt;div&gt;Screening&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-430" y="480" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yxYTFZDSgiTYxT_d3iKq-71" value="&lt;h1&gt;Completed&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-881" y="136" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
