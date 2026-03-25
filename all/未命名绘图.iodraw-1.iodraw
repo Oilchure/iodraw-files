@@ -80,7 +80,7 @@
           <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-18" value="转录组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="360" width="100" height="47" as="geometry" />
+          <mxGeometry x="510" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-19" value="蛋白组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="90" height="40" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="210" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-21" value="表观组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
