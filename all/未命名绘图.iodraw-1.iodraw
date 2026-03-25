@@ -46,8 +46,11 @@
         <mxCell id="UgJY9th372-Ew2b8Um1L-15" value="基因敲除&lt;div&gt;基因过表达&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UgJY9th372-Ew2b8Um1L-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="UgJY9th372-Ew2b8Um1L-16" value="表观编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UgJY9th372-Ew2b8Um1L-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
