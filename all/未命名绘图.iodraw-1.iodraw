@@ -91,7 +91,7 @@
           <mxGeometry x="500" y="282.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;第四层：多组学&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="110" height="30" as="geometry" />
+          <mxGeometry x="100" y="398" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;第五层：实验验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="110" height="30" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="412.5" y="490" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-17" value="代谢通路阻断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="485" width="100" height="45" as="geometry" />
+          <mxGeometry x="260" y="480" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-18" value="转录组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="410" width="90" height="40" as="geometry" />
