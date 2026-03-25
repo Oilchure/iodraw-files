@@ -59,7 +59,7 @@
           <mxGeometry x="220" y="285" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-11" value="分子对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="282.5" width="94" height="45" as="geometry" />
+          <mxGeometry x="360" y="282.5" width="94" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-12" target="UgJY9th372-Ew2b8Um1L-20">
           <mxGeometry relative="1" as="geometry">
@@ -132,6 +132,9 @@
           <mxGeometry x="420" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.347;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-18" target="UgJY9th372-Ew2b8Um1L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UgJY9th372-Ew2b8Um1L-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-12" target="UgJY9th372-Ew2b8Um1L-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
