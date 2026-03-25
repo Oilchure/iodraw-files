@@ -100,7 +100,7 @@
           <mxGeometry x="520" y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-16" value="表观编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="490" width="95" height="40" as="geometry" />
+          <mxGeometry x="411.25" y="480" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-17" value="代谢通路阻断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="480" width="90" height="35" as="geometry" />
