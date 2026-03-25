@@ -52,8 +52,8 @@
         <mxCell id="UgJY9th372-Ew2b8Um1L-17" value="代谢通路阻断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UgJY9th372-Ew2b8Um1L-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="UgJY9th372-Ew2b8Um1L-18" value="转录组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
