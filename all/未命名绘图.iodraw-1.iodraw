@@ -22,6 +22,9 @@
         <mxCell id="UgJY9th372-Ew2b8Um1L-6" value="活性成分筛选&lt;div&gt;UPLC-MS/MS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UgJY9th372-Ew2b8Um1L-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
