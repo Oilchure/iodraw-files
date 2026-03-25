@@ -25,7 +25,7 @@
         <mxCell id="UgJY9th372-Ew2b8Um1L-8" value="成分差异分析&lt;div&gt;道地与非道地&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="584" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UgJY9th372-Ew2b8Um1L-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;第三层：成分分析&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UgJY9th372-Ew2b8Um1L-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;第三层：靶点与通路&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="390" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
