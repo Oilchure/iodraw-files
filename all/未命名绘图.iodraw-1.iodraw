@@ -38,6 +38,9 @@
         <mxCell id="UgJY9th372-Ew2b8Um1L-6" value="活性成分筛选&lt;div&gt;UPLC-MS/MS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="215" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UgJY9th372-Ew2b8Um1L-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-8" target="UgJY9th372-Ew2b8Um1L-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-8" value="成分差异分析&lt;div&gt;道地与非道地&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="217.5" width="90" height="35" as="geometry" />
         </mxCell>
@@ -45,7 +48,7 @@
           <mxGeometry x="100" y="290" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-10" value="网络药理学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="220" y="285" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-11" value="分子对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="399" width="120" height="60" as="geometry" />
