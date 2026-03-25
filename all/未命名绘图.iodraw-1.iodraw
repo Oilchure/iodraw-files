@@ -33,7 +33,12 @@
           <mxGeometry x="100" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-6" target="UgJY9th372-Ew2b8Um1L-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="237" />
+              <mxPoint x="335" y="239" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-6" target="UgJY9th372-Ew2b8Um1L-11">
           <mxGeometry relative="1" as="geometry">
@@ -44,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-6" value="活性成分筛选&lt;div&gt;UPLC-MS/MS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="215" width="90" height="40" as="geometry" />
+          <mxGeometry x="360" y="215" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-8" target="UgJY9th372-Ew2b8Um1L-10">
           <mxGeometry relative="1" as="geometry" />
