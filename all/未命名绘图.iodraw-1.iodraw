@@ -88,40 +88,40 @@
           <mxGeometry x="500" y="282.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;第四层：多组学&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="110" height="30" as="geometry" />
+          <mxGeometry x="100" y="370" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;第五层：实验验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="430" width="110" height="30" as="geometry" />
+          <mxGeometry x="100" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-15" value="基因敲除&lt;div&gt;基因过表达&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-16" value="表观编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="440" width="95" height="40" as="geometry" />
+          <mxGeometry x="412.5" y="460" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-17" value="代谢通路阻断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="435" width="100" height="45" as="geometry" />
+          <mxGeometry x="260" y="455" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-18" value="转录组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="360" width="90" height="40" as="geometry" />
+          <mxGeometry x="510" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-19" target="UgJY9th372-Ew2b8Um1L-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-19" value="蛋白组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="90" height="40" as="geometry" />
+          <mxGeometry x="320" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-20" target="UgJY9th372-Ew2b8Um1L-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-20" value="代谢组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-21" target="UgJY9th372-Ew2b8Um1L-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-21" value="表观组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.347;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-18" target="UgJY9th372-Ew2b8Um1L-15">
           <mxGeometry relative="1" as="geometry" />
