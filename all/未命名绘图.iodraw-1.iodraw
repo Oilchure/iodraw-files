@@ -19,6 +19,11 @@
         <mxCell id="UgJY9th372-Ew2b8Um1L-3" value="生态来源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="145" width="86" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UgJY9th372-Ew2b8Um1L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-4" value="化学marker&lt;div&gt;LC-MS / GC-MS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="142.5" width="90" height="45" as="geometry" />
         </mxCell>
@@ -26,7 +31,7 @@
           <mxGeometry x="100" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-6" value="活性成分筛选&lt;div&gt;UPLC-MS/MS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="215" width="90" height="40" as="geometry" />
+          <mxGeometry x="360" y="225" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-8" value="成分差异分析&lt;div&gt;道地与非道地&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="215" width="90" height="50" as="geometry" />
