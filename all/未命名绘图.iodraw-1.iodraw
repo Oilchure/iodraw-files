@@ -45,7 +45,7 @@
           <mxGeometry x="100" y="290" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-10" value="网络药理学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-11" value="分子对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="399" width="120" height="60" as="geometry" />
