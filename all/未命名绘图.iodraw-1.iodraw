@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-2" value="形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="145" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-3" value="生态来源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="140" width="120" height="60" as="geometry" />
@@ -61,7 +61,7 @@
         <mxCell id="UgJY9th372-Ew2b8Um1L-20" value="代谢组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UgJY9th372-Ew2b8Um1L-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UgJY9th372-Ew2b8Um1L-21" value="表观组学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
