@@ -69,6 +69,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UgJY9th372-Ew2b8Um1L-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-12" target="UgJY9th372-Ew2b8Um1L-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="350" />
+              <mxPoint x="365" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UgJY9th372-Ew2b8Um1L-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UgJY9th372-Ew2b8Um1L-12" target="UgJY9th372-Ew2b8Um1L-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-12" value="富集分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="282.5" width="90" height="45" as="geometry" />
         </mxCell>
