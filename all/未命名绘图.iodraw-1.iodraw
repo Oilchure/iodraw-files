@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-2" value="形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="147.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="410" y="147.5" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="UgJY9th372-Ew2b8Um1L-3" value="生态来源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="145" width="86" height="40" as="geometry" />
