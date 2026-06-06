@@ -94,7 +94,7 @@
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-40" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;调控网络分析 -&lt;i&gt;SCENIC&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Regulon Network&lt;i&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="920" width="390" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HuuT55ZwdHQcyO2RSNs9-41" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;TF动态变化分析- Mfuzz&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Temporal Gene Modulek&lt;i&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HuuT55ZwdHQcyO2RSNs9-41" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;TF动态变化分析 -&lt;i&gt;Mfuzz&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Temporal Gene Module&lt;i&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="920" width="440" height="120" as="geometry" />
         </mxCell>
       </root>
