@@ -14,7 +14,7 @@
           <mxGeometry x="55" y="830" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-8" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;实验验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1240" width="160" height="30" as="geometry" />
+          <mxGeometry x="55" y="1215" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuuT55ZwdHQcyO2RSNs9-9" target="HuuT55ZwdHQcyO2RSNs9-10">
           <mxGeometry relative="1" as="geometry" />
@@ -119,16 +119,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-48" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;免疫荧光染色&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Lineage Markers、Signaling Molecules、PGC Markers&lt;/font&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1175" width="805" height="160" as="geometry" />
+          <mxGeometry x="255" y="1150" width="805" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1235" y="1253.57" as="sourcePoint" />
-            <mxPoint x="1495" y="1254.07" as="targetPoint" />
+            <mxPoint x="1235" y="1228.57" as="sourcePoint" />
+            <mxPoint x="1495" y="1229.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-51" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;验证空间表达模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="1207.5" width="310" height="95" as="geometry" />
+          <mxGeometry x="1690" y="1182.5" width="310" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
