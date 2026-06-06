@@ -31,7 +31,7 @@
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-13" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;细胞类型鉴定&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;（SCC聚类、 DEG分析、Marker鉴定）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="600" width="530" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="HuuT55ZwdHQcyO2RSNs9-14" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span&gt;Stereo-seq&lt;/span&gt;&lt;br&gt;&lt;span&gt;空间转录组测序&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HuuT55ZwdHQcyO2RSNs9-14" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;SAW数据处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="337.5" width="260" height="95" as="geometry" />
         </mxCell>
       </root>
