@@ -22,7 +22,7 @@
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-10" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;连续冷冻切片（62张）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="337.5" width="310" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="HuuT55ZwdHQcyO2RSNs9-11" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;CS8完整人类胚胎&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HuuT55ZwdHQcyO2RSNs9-11" value="&#xa;&lt;span&gt;Stereo-seq&lt;/span&gt;&lt;br&gt;&lt;span&gt;空间转录组测序&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="337.5" width="260" height="95" as="geometry" />
         </mxCell>
       </root>
