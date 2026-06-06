@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-48" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;免疫荧光染色&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Lineage Markers、Signaling Molecules、PGC Markers&lt;/font&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1150" width="805" height="160" as="geometry" />
+          <mxGeometry x="255" y="1140" width="805" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-51" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;验证空间表达模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1690" y="1182.5" width="310" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="HuuT55ZwdHQcyO2RSNs9-54" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="160" width="2220" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
