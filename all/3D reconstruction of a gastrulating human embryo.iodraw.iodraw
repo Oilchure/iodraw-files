@@ -103,8 +103,8 @@
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;细胞通讯分析 -&lt;i&gt;CellChat&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Ligand-Receptor Network&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="920" width="440" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HuuT55ZwdHQcyO2RSNs9-44" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;功能富集分析 -&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;clusterProfiler&lt;/i&gt;、&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Metascape&lt;/i&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;DAVID&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;GO&lt;br&gt;KEGG&lt;br&gt;Pathway Enrichment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="920" width="590" height="120" as="geometry" />
+        <mxCell id="HuuT55ZwdHQcyO2RSNs9-44" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;功能富集分析 -&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;clusterProfiler&lt;/i&gt;、&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Metascape&lt;/i&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;DAVID&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;GO、KEGG、Pathway Enrichment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="920" width="590" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
