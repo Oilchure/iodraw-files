@@ -100,7 +100,7 @@
         <mxCell id="HuuT55ZwdHQcyO2RSNs9-42" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;空间基因模块分析 -&lt;i&gt;Hotspot&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Spatial Gene Module&lt;i&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="920" width="440" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HuuT55ZwdHQcyO2RSNs9-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;细胞通讯分析 -&lt;i&gt;CellChat&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Spatial Gene Module&lt;i&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HuuT55ZwdHQcyO2RSNs9-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;细胞通讯分析 -&lt;i&gt;CellChat&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Ligand-Receptor Network&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2370" y="920" width="440" height="120" as="geometry" />
         </mxCell>
       </root>
