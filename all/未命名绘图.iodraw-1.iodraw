@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;CS8 中发现&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;AM.Ecto&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
