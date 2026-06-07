@@ -97,7 +97,7 @@
             <mxPoint x="1070" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-37" value="&lt;span style=&quot;font-size: 30px; background-color: initial;&quot;&gt;生物信息学方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-37" value="&lt;span style=&quot;font-size: 30px; background-color: initial;&quot;&gt;生物信息学方法&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px; background-color: initial;&quot;&gt;观察连续细胞内Marker表达情况&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="935" width="250" height="110" as="geometry" />
         </mxCell>
       </root>
