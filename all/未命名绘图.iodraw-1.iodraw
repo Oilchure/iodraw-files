@@ -119,21 +119,21 @@
           <mxGeometry x="2300" y="950" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-44" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;和周围细胞的关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="775" width="270" height="90" as="geometry" />
+          <mxGeometry x="2800" y="775" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-45" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;是否受位置影响&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="940" width="290" height="90" as="geometry" />
+          <mxGeometry x="2800" y="940" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-46" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;内部表达情况&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="1115" width="290" height="90" as="geometry" />
+          <mxGeometry x="2800" y="1115" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="747.5" width="390" height="485" as="geometry" />
+          <mxGeometry x="2750" y="747.5" width="390" height="485" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2580" y="994.17" as="sourcePoint" />
-            <mxPoint x="2750" y="994.17" as="targetPoint" />
+            <mxPoint x="2610" y="994.17" as="sourcePoint" />
+            <mxPoint x="2780" y="994.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
