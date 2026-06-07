@@ -143,10 +143,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-51" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;分子、细胞实验连续监测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="1220" width="365" height="90" as="geometry" />
+          <mxGeometry x="1215" y="1160" width="365" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-52" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;生物信息学预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="1420" width="305" height="90" as="geometry" />
+          <mxGeometry x="1210" y="1440" width="305" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1195" width="50" height="300" as="geometry" />
