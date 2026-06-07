@@ -82,12 +82,6 @@
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="500" width="100" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1580" y="654.29" as="sourcePoint" />
-            <mxPoint x="1750" y="654.29" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1230" y="430" width="390" height="450" as="geometry" />
         </mxCell>
@@ -119,16 +113,16 @@
           <mxGeometry x="2300" y="950" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-44" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;和周围细胞的关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="775" width="270" height="90" as="geometry" />
+          <mxGeometry x="2760" y="775" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-45" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;是否受位置影响&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="940" width="290" height="90" as="geometry" />
+          <mxGeometry x="2760" y="940" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-46" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;内部表达情况&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="1115" width="290" height="90" as="geometry" />
+          <mxGeometry x="2760" y="1115" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2790" y="775" width="390" height="450" as="geometry" />
+          <mxGeometry x="2710" y="747.5" width="390" height="485" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
