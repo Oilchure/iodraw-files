@@ -118,8 +118,11 @@
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-43" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;分子、细胞实验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2300" y="950" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-44" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;分子、细胞实验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="960" width="270" height="90" as="geometry" />
+        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-44" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;和周围细胞的关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="780" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-45" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;和周围细胞的关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="790" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
