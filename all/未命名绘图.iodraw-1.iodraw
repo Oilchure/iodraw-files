@@ -104,10 +104,16 @@
           <mxGeometry x="1270" y="927.5" width="250" height="125" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-39" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="935" width="100" height="60" as="geometry" />
+          <mxGeometry x="1580" y="965" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-40" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;过渡态/稳定细胞群&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="920" width="310" height="90" as="geometry" />
+          <mxGeometry x="1740" y="950" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2120" y="1120" as="sourcePoint" />
+            <mxPoint x="2170" y="1070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
