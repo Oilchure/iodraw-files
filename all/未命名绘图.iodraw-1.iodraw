@@ -119,13 +119,16 @@
           <mxGeometry x="2300" y="950" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-44" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;和周围细胞的关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="780" width="270" height="90" as="geometry" />
+          <mxGeometry x="2840" y="775" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-45" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;是否受位置影响&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="945" width="290" height="90" as="geometry" />
+          <mxGeometry x="2840" y="940" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l8DLSQWroNmkdOtYQ2Lf-46" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;内部表达情况&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="1120" width="290" height="90" as="geometry" />
+          <mxGeometry x="2840" y="1115" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l8DLSQWroNmkdOtYQ2Lf-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
